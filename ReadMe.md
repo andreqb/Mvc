@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/aquincb/dotnetdemo/_apis/build/status/andreqb.Mvc%20(1)?branchName=master)](https://dev.azure.com/aquincb/dotnetdemo/_build/latest?definitionId=5&branchName=master)
