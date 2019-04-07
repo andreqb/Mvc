@@ -18,7 +18,7 @@ namespace Mvc.Controllers
 
         public void TestIndex()
         {
-           //_dataService.GetData();
+           _dataService.GetData();
         }
 
         public IActionResult Index()
